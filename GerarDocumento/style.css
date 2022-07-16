@@ -1,0 +1,21 @@
+body {
+  text-align: justify;
+}
+button {
+  margin-left: 10px;
+  background-color: #06224a;
+  color: white;
+  text-transform: uppercase;
+  transition: 0.3s;
+  font-size: 25px;
+  border-radius: 10px;
+  border: none;
+  padding: 5px;
+}
+button:hover {
+  background-color: #010d1f;
+  transition: 0.3s;
+}
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
